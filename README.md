@@ -1,17 +1,34 @@
-## Hi there 👋
+## Hey I am Saul 👋
 
 <!--
-**Saul-Ortega/Saul-Ortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Put an image with portfolio style with my name
+-->
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-..
+***
+
+- Currently finishing my Certificate of Higher Graduation in Multiplatform Applications Development.
+
+- Interested in Software Development and build useful apps.
+
+- 📫 Feel free to contact me.
+
+### Skills
+
+***
+
+<!--
+Put most used languages stats
+-->
+
+### Experience
+
+***
+
+- [Aerolaser System, S.L.]() - Jan. 2026 - April 2026 (Internship)
+- [Inerza, S.A]() - May. 2025 - June 2025 (Internship)
+
+<!--
+Put portfolio, linkedin and gmail badges
 -->
