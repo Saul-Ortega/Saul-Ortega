@@ -1,16 +1,16 @@
 ![Initial Banner](assets/Initial-Banner.png)
 
-### About Me
+### 🌵 About Me
 
 ***
 
-- 🎓 Currently finishing my Certificate of Higher Graduation in Multiplatform Applications Development.
+- 🎓 Currently finishing my Higher Vocational Training in Multiplatform Applications Development.
 
-- 🌵 Interested in Software Development and build useful apps.
+- 🍀 Interested in Software Development and build useful apps.
 
 - 📫 Feel free to contact me.
 
-### Skills
+### 📊 Github Stats
 
 ***
 
@@ -18,15 +18,15 @@
 Put most used languages stats
 -->
 
-### Experience
+### 💼 Experience
 
 ***
 
-- [Aerolaser System, S.L.](https://aerolaser.es/) - Jan. 2026 - April 2026 (Internship)
+- [**Aerolaser System, S.L.**](https://aerolaser.es/) | Jan. 2026 - April 2026 (Internship)
 
-- [Inerza, S.A.](https://www.inerza.com/) - May. 2025 - June 2025 (Internship)
+- [**Inerza, S.A.**](https://www.inerza.com/) | May. 2025 - June 2025 (Internship)
 
-### Links
+### 📎 Links
 
 ***
 
