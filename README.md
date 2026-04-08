@@ -1,16 +1,12 @@
-## Hey I am Saul 👋
-
-<!--
-Put an image with portfolio style with my name
--->
+![Initial Banner](assets/Initial-Banner.png)
 
 ### About Me
 
 ***
 
-- Currently finishing my Certificate of Higher Graduation in Multiplatform Applications Development.
+- 🎓 Currently finishing my Certificate of Higher Graduation in Multiplatform Applications Development.
 
-- Interested in Software Development and build useful apps.
+- 🌵 Interested in Software Development and build useful apps.
 
 - 📫 Feel free to contact me.
 
@@ -26,9 +22,14 @@ Put most used languages stats
 
 ***
 
-- [Aerolaser System, S.L.]() - Jan. 2026 - April 2026 (Internship)
-- [Inerza, S.A]() - May. 2025 - June 2025 (Internship)
+- [Aerolaser System, S.L.](https://aerolaser.es/) - Jan. 2026 - April 2026 (Internship)
 
-<!--
-Put portfolio, linkedin and gmail badges
--->
+- [Inerza, S.A.](https://www.inerza.com/) - May. 2025 - June 2025 (Internship)
+
+### Links
+
+***
+
+![Portfolio]()
+![Linkedin]()
+![Gmail]()
