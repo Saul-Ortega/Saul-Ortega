@@ -13,7 +13,8 @@
 ### 📊 Github Stats
 
 ***
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saul-Ortega&layout=compact)
+
+![Top Languages](./profile/top-langs.svg)
 
 ### 💼 Experience
 
