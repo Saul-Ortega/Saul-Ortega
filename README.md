@@ -1,4 +1,6 @@
-![Initial Banner](assets/Initial-Banner.png)
+<div align="center">
+    <img src="assets/Initial-Banner.png" width="700"/>
+</div>
 
 ### 🌵 About Me
 
@@ -14,7 +16,10 @@
 
 ***
 
-![Top Languages](./profile/top-langs.svg)
+
+<div align="center">
+    <img src="./profile/top-langs.svg" width="300" alt="Top Languages" />
+</div>
 
 ### 💼 Experience
 
@@ -28,6 +33,14 @@
 
 ***
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://saulortega.dev/ "Portfolio personal")
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saul-alberto-ortega-rodriguez-1032b0232/ "Linkedin")
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulalbertoortegarodriguez@gmail.com "Gmail")
+<div align="center">
+    <a href="https://saulortega.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio personal" />
+    </a>
+    <a href="https://www.linkedin.com/in/saul-alberto-ortega-rodriguez-1032b0232/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    <a href="mailto:saulalbertoortegarodriguez@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+</div>
